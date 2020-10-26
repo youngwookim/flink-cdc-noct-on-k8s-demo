@@ -1,5 +1,7 @@
 # Flink CDC Demo
 
+https://docs.google.com/presentation/d/1JrZ2ssEGxEaZT0muFJjMAH7aC3YIf1xQn4e5VZcd8z4/edit?usp=sharing
+
 Prerequisites:
 - Minikube
 - kubectl
